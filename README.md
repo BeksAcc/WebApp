@@ -1,0 +1,1 @@
+Web application that similar to Instagram. Where you can register, login, post something, also add a friend, delete them, view friends profile and their posts
